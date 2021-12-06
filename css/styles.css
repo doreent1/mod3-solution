@@ -153,7 +153,7 @@ p .text-center {
     }
   }
   
-/********** Extra small devices only **********/
+/**** Extra small devices only ****/
 
 @media (max-width: 767px) {
   /* Header */
@@ -162,11 +162,11 @@ p .text-center {
     height: 70px;
   }
 
-  .navbar-brand h1 { /* Company's name */
+  .navbar-brand h1 { 
     padding-top: 10px;
   }
 
-  #collapsable-nav a { /* Collapsed nav menu text */
+  #collapsable-nav a { 
     font-size: 1.2em;
   }
 }
